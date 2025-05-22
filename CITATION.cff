@@ -7,7 +7,7 @@ authors:
 - family-names: "Staszewski"
   given-names: "Wojciech"
   orcid: "https://orcid.org/0000-0001-7149-3904"
-title: "My Research Software"
+title: "Optimization of calculation of VRMS for real-time applications in embedded systems within Industry 4.0 framework"
 version: 1.0.0
 doi: 10.5281/zenodo.15470096
 date-released: 2025-05-20
