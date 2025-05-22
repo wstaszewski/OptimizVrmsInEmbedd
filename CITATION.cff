@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use those scripts, please cite it as below."
+authors:
+- family-names: "Jablonski"
+  given-names: "Adam"
+  orcid: "https://orcid.org/0000-0002-5143-6002"
+- family-names: "Staszewski"
+  given-names: "Wojciech"
+  orcid: "https://orcid.org/0000-0001-7149-3904"
+title: "My Research Software"
+version: 1.0.0
+doi: 10.5281/zenodo.15470096
+date-released: 2025-05-20
+url: "https://github.com/wstaszewski/OptimizVrmsInEmbedd"
